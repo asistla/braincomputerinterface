@@ -1,4 +1,4 @@
-# thoker
+Brain computer interface.
 
 Very simple brain computer interface, with the loosest possible definition of the term. But I made this for <$35, so yeah. 
 The schematics are for the preamplifiers that will get your signal to the levels required to be read by a sound card.
